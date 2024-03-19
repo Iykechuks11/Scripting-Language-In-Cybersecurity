@@ -1,0 +1,12 @@
+This is a sample text file.
+Line 2 contains some integers: 123 456.
+Another line with only a word: String.
+Here are some mixed characters: Abc123!@#$%.
+This line is empty.
+
+This line has all uppercase characters: THIS IS UPPERCASE.
+Another line with lowercase: this is lowercase.
+This line has a mix of both: This Is MiXeD CaSe.
+
+This line contains a single digit: 7.
+Here are some words separated by spaces: This is a sentence.
